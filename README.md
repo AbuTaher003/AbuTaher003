@@ -3,7 +3,7 @@
   <h1 style="font-family: Arial, sans-serif; color: #333;">Welcome to My GitHub Profile</h1>
 </header>
 <h1 align="center">Hi 👋, I'm Abu Taher</h1>
-<h3 align="center">Computer Science and Engineering student with a love for coding, problem-solving, and building cool projects. 🚀</h3>
+<h3 align="center">Computer Science and Engineering student aspiring ML Engineer & Data Scientist and building cool projects. 🚀</h3>
 <img align="right" alt ="Coding" width = "400" src = "https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutaher003&label=Profile%20views&color=0e75b6&style=flat" alt="abutaher003" /> </p>
@@ -20,9 +20,9 @@
 
 - 👯 How to reach me **ug2102003@cse.pstu.ac.bd**
 
-- 🚀 Hobbies **Exploring AI, Competitive Programming, and Watching Sci-Fi Movies**
+- 🚀 Hobbies **Exploring AI, playing with machine learning algorithms, training models and watching football at midnight**
 
-- ⚡ Fun fact **I love Shawarma with extra mayonnaise & debugging at 3 AM! 😆**
+- ⚡ Fun fact ** An AI once tried to name a cat "Fluffy McFluffface"! 😹🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
