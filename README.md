@@ -10,15 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/taherhere" target="blank"><img src="https://img.shields.io/twitter/follow/taherhere?logo=twitter&style=for-the-badge" alt="taherhere" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **Python, Numpy and Pandas**
+- 🌱 I’m currently learning **Python, NumPy, Pandas, Matplotlib, Seaborn, Feature Engineering**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C, C++, Data Science, Machine Learning**
+
+- 🎯 Goals for 2025 **Master Machine Learning & Land a Remote Job**
 
 - 👯 How to reach me **ug2102003@cse.pstu.ac.bd**
 
-- ⚡ Fun fact **I love Showarma with extra mayonnaise. 😁**
+- 🚀 Hobbies **Exploring AI, Competitive Programming, and Watching Sci-Fi Movies**
+
+- ⚡ Fun fact **I love Shawarma with extra mayonnaise & debugging at 3 AM! 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,10 +33,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+</p>
+
+📊 **GitHub Stats:**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abutaher003&show_icons=true&locale=en&layout=compact" alt="abutaher003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en" alt="abutaher003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&" alt="abutaher003" /></p>
+
+🚀 **Keep Learning & Keep Coding!**
