@@ -3,7 +3,7 @@
   <h1 style="font-family: Arial, sans-serif; color: #333;">Welcome to My GitHub Profile</h1>
 </header>
 <h1 align="center">Hi 👋, I'm Abu Taher</h1>
-<h3 align="center">Computer Science and Engineering student, aspiring Machine learning Engineer and Data scientist, and building cool projects. 🚀</h3>
+<h3 align="center">Computer Science and Engineering student with a love for coding, problem-solving, and building cool projects. 🚀</h3>
 <img align="right" alt ="Coding" width = "400" src = "https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutaher003&label=Profile%20views&color=0e75b6&style=flat" alt="abutaher003" /> </p>
@@ -20,7 +20,7 @@
 
 - 👯 How to reach me **ug2102003@cse.pstu.ac.bd**
 
-- 🚀 Hobbies **Exploring AI, Playing with ML algorithms, Training models , and Watching Football at midnight**
+- 🚀 Hobbies **Exploring AI, Competitive Programming, and Watching Sci-Fi Movies**
 
 - ⚡ Fun fact **I love Shawarma with extra mayonnaise & debugging at 3 AM! 😆**
 
@@ -42,6 +42,9 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abutaher003&bg_color=ffffff&color=36d7b7&line=36d7b7&point=ffffff&area=true&area_color=36d7b7)
+
 📊 **GitHub Stats:**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abutaher003&show_icons=true&locale=en&layout=compact" alt="abutaher003" /></p>
@@ -49,5 +52,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en" alt="abutaher003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&" alt="abutaher003" /></p>
-
-
