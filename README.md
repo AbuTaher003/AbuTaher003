@@ -49,4 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en" alt="abutaher003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&" alt="abutaher003" /></p>
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abutaher003&bg_color=ffffff&color=36d7b7&line=36d7b7&point=ffffff&area=true&area_color=36d7b7)
+
 
