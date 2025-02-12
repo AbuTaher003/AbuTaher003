@@ -57,9 +57,10 @@
 </p>
 
 
+### 📊 GitHub Activity Graph:
+<a href="https://github.com/AbuTaher003"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuTaher003&bg_color=0d1117&color=ffffff&line=5BCDEC&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abutaher003&bg_color=ffffff&color=36d7b7&line=36d7b7&point=ffffff&area=true&area_color=36d7b7)
+
 
 📊 **GitHub Stats:**
 
