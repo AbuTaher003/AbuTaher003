@@ -63,6 +63,12 @@
 
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbuTaher003&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
 
 <a href="https://github.com/AbuTaher003">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuTaher003&bg_color=0e1117&color=add8e6&line=add8e6&point=87cefa&area=true&hide_border=true" alt="GitHub Activity Graph" />
