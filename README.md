@@ -70,9 +70,10 @@
 
 ---
 
-<a href="https://github.com/AbuTaher003">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuTaher003&bg_color=0e1117&color=add8e6&line=add8e6&point=87cefa&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuTaher003&theme=github_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbuTaher003&theme=github_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbuTaher003&theme=github_dark)
+
 
 
 
