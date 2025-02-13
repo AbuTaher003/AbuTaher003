@@ -14,7 +14,7 @@
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuTaher003&theme=github_dark)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbuTaher003&theme=github_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbuTaher003&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbuTaher003&theme=github_dark)
 ---
 
@@ -89,10 +89,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abutaher003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&theme=dark&ring=FF4500&fire=FF6347&currStreakLabel=FFD700" alt="GitHub Streak" />
 </p>
