@@ -78,8 +78,14 @@
 
 📊 **GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abutaher003&show_icons=true&locale=en&layout=compact" alt="abutaher003" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abutaher003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en" alt="abutaher003" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abutaher003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&" alt="abutaher003" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abutaher003&theme=dark&ring=FF4500&fire=FF6347&currStreakLabel=FFD700" alt="GitHub Streak" />
+</p>
