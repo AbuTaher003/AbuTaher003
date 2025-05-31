@@ -38,7 +38,7 @@
 
 - 🚀 Hobbies **Exploring AI, playing with machine learning algorithms, training models and watching football at midnight**
 
-- ⚡ Fun fact ```👉🏻An AI once tried to name a cat "Fluffy McFluffface"! 😹🤖```
+- ⚡ Fun fact ```👉🏻There are still some people who think Ronaldo is better than Messi```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
