@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **Python, NumPy, Pandas, Matplotlib, Seaborn, Feature Engineering**
+- 🌱 I’m currently learning **Machine Learning Algorithms and I successfully finished feature Engineering part**
 
 - 💬 Ask me about **C, C++, Data Science, Machine Learning**
 
